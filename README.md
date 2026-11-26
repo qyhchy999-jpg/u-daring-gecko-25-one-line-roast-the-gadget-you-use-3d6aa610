@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610/qyhchy999-jpg/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610/rank.svg)](https://make.fun/bounty/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610)
 [![reward](https://make.fun/badge/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610/qyhchy999-jpg/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610/reward.svg)](https://make.fun/bounty/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610)
 
-One line roasting a gadget I use every day: my smartwatch just congratulated me for closing my exercise ring — I walked to the fridge twice. The expensive health device cannot tell exercise from a snack run, and it is proud of me either way. The punch lands in the last few words, where the "workout" turns out to be two trips to the fridge.
+One line roasting a gadget I use every day: my phone's autocorrect has known me for five years and still thinks I mean "ducking". It has read everything I ever wrote, and it learned nothing. The gadget that knows me best refuses to learn the one word I mean every time — a model trained on my entire life, and it learned nothing.
 
 ## Entry
 
@@ -21,3 +21,5 @@ Then check the output is UTF-8 text of 1 to 200 characters, and run it twice to 
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+<!-- Second pass: autocorrect, not the smartwatch — five years of training data and it still thinks I mean "ducking". -->
